@@ -1,5 +1,5 @@
 cwd := `pwd`
-theme := "MyTheme"
+theme := "Elan-Flower"
 
 init:
     #!/usr/bin/env bash
