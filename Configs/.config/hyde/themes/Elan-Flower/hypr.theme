@@ -1,6 +1,6 @@
 $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 
-$GTK_THEME=Elan-Flower
+$GTK_THEME=Elan-Flower-Light
 $ICON_THEME=Zafiro-Icons-Light
 $CURSOR_THEME=Bibata-Modern-Ice
 $CURSOR_SIZE=25
