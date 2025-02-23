@@ -42,3 +42,6 @@ color14     #4B637D
 # white
 color7      #492952
 color15     #613A6B
+
+font_family     MonofurNerdFontMono
+font_size     11
