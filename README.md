@@ -14,5 +14,6 @@
 | ----------------------------------- | ----------------------------------- |
 | ![t3](./screenshots/screenshot3.png) | ![t4](./screenshots/screenshot4.png) |
 
+Rain and Mila by [papaya](https://bsky.app/profile/papaira.bsky.social/post/3lirhjvisu22u)
 ## Installation
 This is apart of a larger theme that requires more configuration than what is currently possible with HyDE themes. (I am *probably* wrong about this, so if anyone knows of a better way of doing this, please let me know.) See [Élan Flower](https://github.com/Traynack/Elan-Flower) for more details.
